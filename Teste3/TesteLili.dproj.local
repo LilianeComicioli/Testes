@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/06/09 11:43:03.000.942,=C:\Users\intim\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/05/15 22:30:28.000.456,=C:\Users\intim\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/05/15 22:33:41.000.020,C:\Users\intim\OneDrive\Documentos\Liliane\Senior Lili\SeniorLili.pas=C:\Users\intim\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/05/15 22:33:41.000.020,C:\Users\intim\OneDrive\Documentos\Liliane\Senior Lili\SeniorLili.dfm=C:\Users\intim\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024/05/15 22:35:41.000.070,C:\Users\intim\OneDrive\Documentos\Liliane\Senior Lili\TesteLili.dproj=C:\Users\intim\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2024/05/15 22:37:39.000.047,=C:\Users\intim\OneDrive\Documentos\Liliane\Senior Lili\Unit1.pas</Transaction>
+    <Transaction>2024/05/15 22:38:31.000.013,C:\Users\intim\OneDrive\Documentos\Liliane\Senior Lili\Componente.pas=C:\Users\intim\OneDrive\Documentos\Liliane\Senior Lili\Unit1.pas</Transaction>
+    <Transaction>2024/05/15 22:40:06.000.511,=C:\Users\intim\OneDrive\Documentos\Liliane\Senior Lili\Unit1.pas</Transaction>
+    <Transaction>2024/05/15 22:40:46.000.159,C:\Users\intim\OneDrive\Documentos\Liliane\Senior Lili\Frame.pas=C:\Users\intim\OneDrive\Documentos\Liliane\Senior Lili\Unit1.pas</Transaction>
+    <Transaction>2024/05/15 22:41:56.000.618,=C:\Users\intim\OneDrive\Documentos\Liliane\Senior Lili\Unit1.pas</Transaction>
+    <Transaction>2024/05/15 22:42:11.000.411,C:\Users\intim\OneDrive\Documentos\Liliane\Senior Lili\Botao.pas=C:\Users\intim\OneDrive\Documentos\Liliane\Senior Lili\Unit1.pas</Transaction>
+    <Transaction>2024/05/15 22:42:41.000.058,=C:\Users\intim\OneDrive\Documentos\Liliane\Senior Lili\Unit1.pas</Transaction>
+    <Transaction>2024/05/15 22:42:59.000.119,C:\Users\intim\OneDrive\Documentos\Liliane\Senior Lili\Memo.pas=C:\Users\intim\OneDrive\Documentos\Liliane\Senior Lili\Unit1.pas</Transaction>
+    <Transaction>2024/05/15 22:43:37.000.487,=C:\Users\intim\OneDrive\Documentos\Liliane\Senior Lili\Unit1.pas</Transaction>
+    <Transaction>2024/05/15 22:45:39.000.555,C:\Users\intim\OneDrive\Documentos\Liliane\Senior Lili\xLabel.pas=C:\Users\intim\OneDrive\Documentos\Liliane\Senior Lili\Unit1.pas</Transaction>
+    <Transaction>2024/05/16 08:32:12.000.473,C:\Users\intim\OneDrive\Documentos\Liliane\Senior Lili\uComponente.pas=C:\Users\intim\OneDrive\Documentos\Liliane\Senior Lili\Componente.pas</Transaction>
+    <Transaction>2024/05/16 08:32:27.000.085,C:\Users\intim\OneDrive\Documentos\Liliane\Senior Lili\uFrame.pas=C:\Users\intim\OneDrive\Documentos\Liliane\Senior Lili\Frame.pas</Transaction>
+    <Transaction>2024/05/16 08:32:40.000.659,C:\Users\intim\OneDrive\Documentos\Liliane\Senior Lili\uLabel.pas=C:\Users\intim\OneDrive\Documentos\Liliane\Senior Lili\xLabel.pas</Transaction>
+    <Transaction>2024/05/16 08:32:49.000.153,C:\Users\intim\OneDrive\Documentos\Liliane\Senior Lili\uMemo.pas=C:\Users\intim\OneDrive\Documentos\Liliane\Senior Lili\Memo.pas</Transaction>
+    <Transaction>2024/05/16 08:32:57.000.040,C:\Users\intim\OneDrive\Documentos\Liliane\Senior Lili\uBotao.pas=C:\Users\intim\OneDrive\Documentos\Liliane\Senior Lili\Botao.pas</Transaction>
+    <Transaction>2024/05/16 08:39:44.000.544,C:\Users\intim\OneDrive\Documentos\Liliane\Senior Lili\uSeniorLili.dfm=C:\Users\intim\OneDrive\Documentos\Liliane\Senior Lili\SeniorLili.dfm</Transaction>
+    <Transaction>2024/05/16 08:39:44.000.544,C:\Users\intim\OneDrive\Documentos\Liliane\Senior Lili\uSeniorLili.pas=C:\Users\intim\OneDrive\Documentos\Liliane\Senior Lili\SeniorLili.pas</Transaction>
+    <Transaction>2024/05/16 11:40:43.000.049,C:\Users\intim\OneDrive\Documentos\Liliane\Senior Lili\uSeniorLili.pas=C:\Users\intim\OneDrive\Documentos\Liliane\Senior Lili\uPrincipal.pas</Transaction>
+    <Transaction>2024/05/16 11:40:43.000.049,C:\Users\intim\OneDrive\Documentos\Liliane\Senior Lili\uSeniorLili.dfm=C:\Users\intim\OneDrive\Documentos\Liliane\Senior Lili\uPrincipal.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

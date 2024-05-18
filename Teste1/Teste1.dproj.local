@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/06/09 11:43:03.000.942,=C:\Users\intim\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/05/18 10:08:04.000.125,=C:\Users\intim\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/05/18 10:16:02.000.954,C:\Users\intim\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\intim\OneDrive\Documentos\Teste Senior Lili\Teste1\uPrincipal.dfm</Transaction>
+    <Transaction>2024/05/18 10:16:02.000.954,C:\Users\intim\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\intim\OneDrive\Documentos\Teste Senior Lili\Teste1\uPrincipal.pas</Transaction>
+    <Transaction>2024/05/18 10:17:14.000.312,C:\Users\intim\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\intim\OneDrive\Documentos\Embarcadero\Studio\Projects\Teste1.dproj</Transaction>
+    <Transaction>2024/05/18 10:17:43.000.804,C:\Users\intim\OneDrive\Documentos\Teste Senior Lili\Teste1\uPrincipal.pas=</Transaction>
+    <Transaction>2024/05/18 10:18:48.000.638,C:\Users\intim\OneDrive\Documentos\Embarcadero\Studio\Projects\Teste1.dproj=C:\Users\intim\OneDrive\Documentos\Teste Senior Lili\Teste1\Teste1.dproj</Transaction>
+    <Transaction>2024/05/18 10:19:08.000.700,=C:\Users\intim\OneDrive\Documentos\Teste Senior Lili\Teste1\uPrincipal.pas</Transaction>
+    <Transaction>2024/05/18 10:32:59.000.168,=C:\Users\intim\OneDrive\Documentos\Teste Senior Lili\Teste1\Unit1.pas</Transaction>
+    <Transaction>2024/05/18 10:33:27.000.388,C:\Users\intim\OneDrive\Documentos\Teste Senior Lili\Teste1\Unit1.pas=C:\Users\intim\OneDrive\Documentos\Teste Senior Lili\Teste1\uSubstitui.pas</Transaction>
+    <Transaction>2024/05/18 10:34:26.000.425,=C:\Users\intim\OneDrive\Documentos\Teste Senior Lili\Teste1\Unit1.pas</Transaction>
+    <Transaction>2024/05/18 10:34:48.000.752,C:\Users\intim\OneDrive\Documentos\Teste Senior Lili\Teste1\Unit1.pas=C:\Users\intim\OneDrive\Documentos\Teste Senior Lili\Teste1\uISubstitui.pas</Transaction>
+  </Transactions>
+</BorlandProject>
